@@ -1,2 +1,2 @@
-# liveicaro.git.io.gamematamosquito
-Game created with JS and CSS+BootStrap
+# https://liveicaro.github.io/liveicaro.git.io.gamematamosquito/index.html
+Game created with JavaScript and CSS+BootStrap. 
